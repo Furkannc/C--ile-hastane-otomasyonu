@@ -1,7 +1,7 @@
 # **Kullanımı**
 
 ######  1. Veri tabanı oluştur
-![enter image description here](https://github.com/Furkannc/C--ile-hastane-otomasyonu/blob/main/hastane_otomasyon/database.png?raw=true)
+![VeriTabanı](https://github.com/Furkannc/C--ile-hastane-otomasyonu/blob/main/hastane_otomasyon/database.png?raw=true)
 ######  2. sqlbaglanti.cs dosyasını düzenle
 `
 
